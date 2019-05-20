@@ -11,4 +11,4 @@ function theBeatlesPlay(musicians, instruments) {
   return emptyArray
 }
 
-function iLoveTheBeatles()
+function johnLennonFacts
