@@ -25,3 +25,8 @@ function johnLennonFacts(facts) {
   while(i < facts.length) {exclamation.push(facts[i] + "!!!"); i++}
   return exclamation
 }
+
+function iLoveTheBeatles(num) {
+  var newArray = []
+  
+}
