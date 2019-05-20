@@ -9,7 +9,7 @@ const facts = [
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
-var i = 0
+
  
 function theBeatlesPlay(musicians, instruments) {
   var emptyArray = [];
@@ -20,6 +20,7 @@ function theBeatlesPlay(musicians, instruments) {
 }
 
 function johnLennonFacts(facts) {
+  var i = 0
   var exclamation = []
   while(i < 4) {exclamation.push(facts[i])}
   return exclamation
